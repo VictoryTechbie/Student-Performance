@@ -18,8 +18,7 @@ Many schools and education administrators struggle to monitor and evaluate stude
 </p>
 
 ## The Analysis Process:
-## 1. Ask
-## ❓ Key Questions for Analysis
+## 1. Ask: ❓ Key Questions for Analysis
 ### A. Performance Overview
 1. What is the average score in each subject (Math, Reading, Writing)?
 2. What is the overall
@@ -39,6 +38,6 @@ Many schools and education administrators struggle to monitor and evaluate stude
 9. Does test preparation improve results?
 	
 ## 2. Prepare
-Data Source: The Data was downloaded from [Kaggle](Kaggle.com/dataset) and loaded into Excel for Data Cleaning
-Data Cleaning: No duplicates found
-![Dataset Overview](https://github.com/)
+- Data Source: The Data was downloaded from [Kaggle](Kaggle.com/dataset) and loaded into Excel for Data Cleaning
+- Data Cleaning: No duplicates found
+![Dataset Overview](https://github.com/VictoryTechbie/Student-Performance/blob/main/overview.jpg)
