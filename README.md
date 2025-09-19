@@ -3,7 +3,7 @@
 ## Table of Content
 - [Introduction](#Introduction)
 - [Problem Statement](#Problem-Statement)
-- [Key Questions for Analysis](#Key-Questions-for-Analysis)
+- [Key Questions for Analysis](#-key-questions-for-analysis)
 - 
 ## Introduction
 <p align="justify">
