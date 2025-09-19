@@ -17,11 +17,14 @@ In today’s data-driven educational environment, tracking and understanding stu
 Many schools and education administrators struggle to monitor and evaluate student performance trends over time. Without proper tools and insights, it's difficult to identify gaps in performance across gender, subjects, or student groups. This project aims to develop an interactive Excel dashboard that visualizes school performance, enabling stakeholders to make informed decisions for academic improvement.
 </p>
 
+## The Analysis Process:
+## 1. Ask
 ## ❓ Key Questions for Analysis
 ### A. Performance Overview
 1. What is the average score in each subject (Math, Reading, Writing)?
-2. What is the overall performance trend over the years (if year data is included)?
-3. What percentage of students passed all subjects?
+2. What is the overall
+3.  performance trend over the years (if year data is included)?
+4. What percentage of students passed all subjects?
 
 ### B. Gender-Based Analysis
 4. Do male and female students perform differently in any subjects?
@@ -35,3 +38,7 @@ Many schools and education administrators struggle to monitor and evaluate stude
 8. Does parental education level affect student performance?
 9. Does test preparation improve results?
 	
+## 2. Prepare
+Data Source: The Data was downloaded from [Kaggle](Kaggle.com/dataset) and loaded into Excel for Data Cleaning
+Data Cleaning: No duplicates found
+![Dataset Overview](https://github.com/)
