@@ -1,6 +1,6 @@
 # **Student Performance Analysis Report**
 
-## Table of Content
+## Table of Contents
 - [Introduction](#Introduction)
 - [Problem Statement](#Problem-Statement)
 - [Key Questions for Analysis](#-key-questions-for-analysis)
